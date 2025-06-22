@@ -8,7 +8,7 @@ Excited to collaborate on projects that push the boundaries of technology and cr
 
 👀 I’m interested in...
 - Artificial Intelligence 🧠  
-- Machine Learning & Deep Learning 🤖  
+- Complex Machine Learning & Deep Learning Topics 🤖  
 - Real-world data challenges 📊  
 - Data Structures & Algorithms 🧮  
 - Building smart systems with ethical AI ⚙️  
