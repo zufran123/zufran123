@@ -31,9 +31,7 @@ Excited to collaborate on projects that push the boundaries of technology and cr
  📫 How to reach me...
 Let’s connect and grow together! 🚀  
 - 📧 Email: mohdzufran7@gmail.com 
-- 💼 LinkedIn: http://www.linkedin.com/in/mohdzufran   
-- 🌐 Portfolio: https://zufran123.github.io/  
-
+- 💼 LinkedIn: http://www.linkedin.com/in/mohdzufran    
  😄 Pronouns: He/Him
 
 ⚡ Fun fact:
