@@ -1,6 +1,6 @@
 👋 Hi there, I'm Mohd Zufran!
 
-🚀 I'm a dedicated and enthusiastic fresher currently pursuing my **Master of Computer Applications (MCA)** from **Devi Ahilya Vishwavidyalaya (DAVV)**.  
+🚀 I'm a dedicated and enthusiastic programmer currently pursuing my **Master of Computer Applications (MCA)** from **Devi Ahilya Vishwavidyalaya (DAVV)**.  
 I’m passionate about problem-solving and actively challenge myself on platforms like **LeetCode** and **Codeforces** to sharpen my algorithmic thinking and coding skills.  
 As an **Open-Source Enthusiast**, I love contributing to projects that foster collaboration and innovation. With a strong foundation in data structures and algorithms, I aim to build innovative solutions leveraging **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**.  
 I’m constantly learning advanced concepts and technologies to turn complex problems into elegant, efficient code.  
