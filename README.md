@@ -30,8 +30,9 @@ Excited to collaborate on projects that push the boundaries of technology and cr
 - 
  📫 How to reach me...
 Let’s connect and grow together! 🚀  
-- 📧 Email: mohdzufran7@gmail.com 
-- 💼 LinkedIn: http://www.linkedin.com/in/mohdzufran
+- [![Contact Me](https://img.shields.io/badge/Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohdzufran7@gmail.com)
+ 
+- [![LinkedIn: mohdzufran](https://img.shields.io/badge/LinkedIn-mohdzufran-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohdzufran)
 
   
  😄 Pronouns: He/Him
