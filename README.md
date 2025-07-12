@@ -34,6 +34,8 @@ Let’s connect and grow together! 🚀
  
 - [![LinkedIn: mohdzufran](https://img.shields.io/badge/LinkedIn-mohdzufran-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohdzufran)
 
+- [![GitHub: zufran123](https://img.shields.io/badge/GitHub-zufran123-181717?style=flat-square&logo=github)](https://github.com/zufran123)
+
   
  😄 Pronouns: He/Him
 
