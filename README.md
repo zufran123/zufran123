@@ -5,7 +5,6 @@ I’m passionate about problem-solving and actively challenge myself on platform
 As an **Open-Source Enthusiast**, I love contributing to projects that foster collaboration and innovation. With a strong foundation in data structures and algorithms, I aim to build innovative solutions leveraging **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**.  
 I’m constantly learning advanced concepts and technologies to turn complex problems into elegant, efficient code.  
 Excited to collaborate on projects that push the boundaries of technology and create meaningful impact. **Let’s connect and build the future together 🤝!**
-- ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=zufran123.zufran123&left_color=gray&right_color=blue)
 
 👀 I’m interested in...
 - Artificial Intelligence 🧠  
@@ -36,6 +35,8 @@ Let’s connect and grow together! 🚀
 - [![LinkedIn: mohdzufran](https://img.shields.io/badge/LinkedIn-mohdzufran-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohdzufran)
 
 - [![GitHub: zufran123](https://img.shields.io/badge/GitHub-zufran123-181717?style=flat-square&logo=github)](https://github.com/zufran123)
+
+- ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=zufran123.zufran123&left_color=gray&right_color=blue)
 
   
  😄 Pronouns: He/Him
