@@ -29,7 +29,7 @@ I'm particularly interested in:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohdzufran7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdzufran)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zufran123)
-Pronouns: He/Him  
+
 
 ⚡ Fun fact:  
 I care less about *using* AI libraries and more about understanding **what actually happens inside the system** — from gradients to production APIs.
