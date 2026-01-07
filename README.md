@@ -26,10 +26,15 @@ I'm particularly interested in:
 - Open-source tools for developers
 
 📫 Connect with me:
-- 📧 Email: mohdzufran7@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/mohdzufran  
-- 🧑‍💻 GitHub: https://github.com/zufran123  
-
+<a href="mailto:mohdzufran7@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28" />
+</a>
+<a href="https://linkedin.com/in/mohdzufran">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" />
+</a>
+<a href="https://github.com/zufran123">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" />
+</a>
 😄 Pronouns: He/Him  
 
 ⚡ Fun fact:  
