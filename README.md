@@ -1,6 +1,6 @@
 👋 Hi, I'm Mohd Zufran  
 
-I'm a Python backend engineer and MCA graduate from DAVV.  
+I'm a Python Backend (FastAPI) Developer & MCA graduate @ DAVV.  
 I specialize in building clean, scalable backend systems using **FastAPI**, **SQLAlchemy**, and relational databases.
 
 I enjoy designing APIs, database schemas, and backend workflows that are reliable, maintainable, and production-ready. Alongside backend development, I have a strong interest in **how AI systems work internally** — from data pipelines to model training, inference flows, and deployment architecture.
