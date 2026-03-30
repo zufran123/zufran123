@@ -1,6 +1,6 @@
 👋 Hi, I'm Mohd Zufran  
 
-I'm a Python Backend (FastAPI) Developer & MCA graduate @ DAVV.  
+I'm a Python Backend (FastAPI) Developer & MCA graduate from IET DAVV.  
 I specialize in building clean, scalable backend systems using **FastAPI**, **SQLAlchemy**, and relational databases.
 
 I enjoy designing APIs, database schemas, and backend workflows that are reliable, maintainable, and production-ready. Alongside backend development, I have a strong interest in **how AI systems work internally** — from data pipelines to model training, inference flows, and deployment architecture.
@@ -28,8 +28,6 @@ I'm particularly interested in:
 📫 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohdzufran7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdzufran)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zufran123)
-
 
 ⚡ Fun fact:  
 I care less about *using* AI libraries and more about understanding **what actually happens inside the system** — from gradients to production APIs.
